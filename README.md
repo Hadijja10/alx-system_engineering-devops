@@ -1,1 +1,1 @@
-my first readme
+shell variables and expansion readme
